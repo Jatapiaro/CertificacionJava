@@ -10,4 +10,5 @@ class /*
 * compilando
 */ Examen{
 	CEM cem;
+	String salida = "/* */";
 }
